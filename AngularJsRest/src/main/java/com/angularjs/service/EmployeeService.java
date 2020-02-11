@@ -13,7 +13,6 @@ import com.angularjs.model.Employee;
 import com.angularjs.repository.EmployeeRepository;
 
 
-
 @Service
 public class EmployeeService {
 	private EmployeeRepository employeeRepository;
